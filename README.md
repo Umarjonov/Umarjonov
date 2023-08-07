@@ -7,11 +7,10 @@
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a backend developer before becoming a full-stack developer.
 - How to reach me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/azizbek8434)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizbek-muzaffarov-b37a31171/)](https://www.linkedin.com/in/azizbek-muzaffarov-b37a31171/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azizbekmuzaffarov25@gmail.com)](mailto:azizbekmuzaffarov25@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/minus93)
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Umarjonov)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usulidin-umarjonov-74b1421a2/)](https://www.linkedin.com/in/usulidin-umarjonov-74b1421a2/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:usulidin.umarjonov@gmail.com)](mailto:usulidin.umarjonov@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Usulidin_U)
 ---
 **Languages and Tools:**
 <p>
